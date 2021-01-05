@@ -1,5 +1,5 @@
 # BioinfoBash
-A collection of helpful Bash command for Bioinformatics
+A collection of helpful Bash commands for Bioinformatics
 
 ## FASTQ
 
